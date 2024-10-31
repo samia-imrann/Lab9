@@ -1,0 +1,22 @@
+.first-div
+{
+    width:721px;
+    height:77px;
+    background-color:pink;
+    border-width: 3px;
+    border-color:purple;
+    border-bottom: 20%;
+    border-style: solid;
+    margin:10px;
+    padding-left: 20px;
+}
+
+.normal-para
+{
+color: rgb(242, 130, 149); 
+}
+
+#fav-para
+{
+    color:purple;
+}
